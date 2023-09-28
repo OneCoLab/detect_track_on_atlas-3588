@@ -1,4 +1,4 @@
-# detect_track_on_atlas&3588
+# detect&track on atlas_310b&rknn_3588
 
 # demo_video has been uploaded to bilibili：
 https://www.bilibili.com/video/BV1M84y1S79e/
