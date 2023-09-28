@@ -1,5 +1,9 @@
 # detect_track_on_atlas&3588
 
+# demo_video is available in bilibili
+华为atlas&瑞芯微3588检测跟踪demo_video:  
+https://www.bilibili.com/video/BV1M84y1S79e/
+
   # HUAWEI atlas的检测和跟踪
   已经封装好
 
