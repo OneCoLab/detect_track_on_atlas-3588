@@ -22,7 +22,7 @@
   
   
   
-  #  3588的检测和跟踪
+  #  瑞芯微RK3588的检测和跟踪
   已经封装好
   
   - 详见https://gitee.com/XuOneStar/3588_work_table
